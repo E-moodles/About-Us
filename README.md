@@ -1,6 +1,6 @@
 # About-Us
 This Project is part of final project of Computer Science degree in Ariel University. 
-In this project we attend to connect the Moodle Forum to gmail address so the user will be able to connect the Moodle forum directly from his presonal address by writing mail to the specific address. In this project we work with : SQL, PHP and Gmail. At workspace: MySQL , Apacheת Xampp, Moodle and IntelliJ .
+In this project we attend to connect the Moodle Forum to gmail address so the user will be able to connect the Moodle forum directly from his presonal address by writing mail to the specific address. In this project we work with : SQL, PHP and Gmail. At workspace: MySQL , Apacheת Xampp, Moodle and IntelliJ .   
 Link to video that show how to install and start E-Moodles plugin: https://www.youtube.com/watch?v=WevvPXTk13A 
 
   <img align="left" width="80px" img src = "https://user-images.githubusercontent.com/57361588/129718475-bcc33093-9dad-41da-a530-35abaa60427b.png" >   
